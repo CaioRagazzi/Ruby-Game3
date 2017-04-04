@@ -22,5 +22,4 @@ end
 def game_over
 	puts "\n\n\n"
 	puts "Game over"
-
 end
